@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"
+    ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="30dp"
+    android:onClick="bClickOnList"
+
+
+    android:layout_marginEnd="30dp"
+    android:background="@drawable/rectangle"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/idAccident"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="ID : "
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:id="@+id/dateAccident"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:text="Date : "
+        android:textColor="#B9C4C9"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="#128277"
+        android:textSize="24dp" />
+
+</LinearLayout>

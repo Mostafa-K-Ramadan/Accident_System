@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Accident System</string>
+    <string name="welcomeSystem">Welcome to Accident System</string>
+    <string name="register">Register page</string>
+    <string name="emp">Employee page</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="sighup">Sign up</string>
+    <string name="logEmployee">Tap here if you employee </string>
+    <string name="bRegister">Register</string>
+    <string name="HP">Home page</string>
+    <string name="employeeHomePgae">Employee Home Page</string>
+    <string name="report_number">Report number</string>
+    <string name="enter">Enter</string>
+    <string name="enterReportNum">Enter report number</string>
+    <string name="HistpryPage">History page</string>
+
+</resources>

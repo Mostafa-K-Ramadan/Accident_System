@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604495515321",
+    "firebase_url": "https://accident-system.firebaseio.com",
+    "project_id": "accident-system",
+    "storage_bucket": "accident-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604495515321:android:611fbf46f3c1b0a9b81568",
+        "android_client_info": {
+          "package_name": "com.example.accidentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604495515321-683grict8rhgflg6o7udu2mrc7i2r7gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accidentsystem",
+            "certificate_hash": "3a48e77e221dd844180827e1f82f1cda08a1ee06"
+          }
+        },
+        {
+          "client_id": "604495515321-4c26m38huse3ts41grftbg05ijhmjkei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoMt49yiaejpvCuxI4cNG-MtgNzVpj5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604495515321-4c26m38huse3ts41grftbg05ijhmjkei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
